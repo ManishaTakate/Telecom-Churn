@@ -4,4 +4,4 @@ Telecom churn project where, Based on customer behavior (such as the monthly bil
 
 Visualised data and provided some insights on the same.
 
-The case study has the following files:
+
