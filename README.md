@@ -4,4 +4,8 @@ Telecom churn project where, Based on customer behavior (such as the monthly bil
 
 Visualised data and provided some insights on the same.
 
+The case study has the following files:
 
+1. Telecom_Churn_Submit -- python file.
+2. Telecom Churn.pdf -- Presentation File
+3. README file
